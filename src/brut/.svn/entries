@@ -1,43 +1,0 @@
-10
-
-dir
-25
-https://svn.iooly.com/recp/iooly/ApkDetails/trunk/src/brut
-https://svn.iooly.com/recp/iooly
-
-
-
-2013-03-20T16:46:12.539632Z
-24
-iooly
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-29964c9a-14b1-460c-9ef0-04c4b8f74103
-
-common
-dir
-
-apktool
-dir
-
-androlib
-dir
-
-util
-dir
-
-directory
-dir
-
