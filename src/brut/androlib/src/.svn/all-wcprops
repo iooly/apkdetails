@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/recp/iooly/!svn/ver/2/ApkDetails/trunk/src/brut/androlib/src
+END
+TypeName.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/recp/iooly/!svn/ver/2/ApkDetails/trunk/src/brut/androlib/src/TypeName.java
+END
+DebugInjector.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/recp/iooly/!svn/ver/2/ApkDetails/trunk/src/brut/androlib/src/DebugInjector.java
+END
+DexFileBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/recp/iooly/!svn/ver/2/ApkDetails/trunk/src/brut/androlib/src/DexFileBuilder.java
+END
+SmaliDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/recp/iooly/!svn/ver/2/ApkDetails/trunk/src/brut/androlib/src/SmaliDecoder.java
+END
+SmaliBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/recp/iooly/!svn/ver/2/ApkDetails/trunk/src/brut/androlib/src/SmaliBuilder.java
+END

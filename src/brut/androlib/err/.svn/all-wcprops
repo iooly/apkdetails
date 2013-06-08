@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/recp/iooly/!svn/ver/2/ApkDetails/trunk/src/brut/androlib/err
+END
+OutDirExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/recp/iooly/!svn/ver/2/ApkDetails/trunk/src/brut/androlib/err/OutDirExistsException.java
+END
+CantFind9PatchChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/recp/iooly/!svn/ver/2/ApkDetails/trunk/src/brut/androlib/err/CantFind9PatchChunk.java
+END
+CantFindFrameworkResException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/recp/iooly/!svn/ver/2/ApkDetails/trunk/src/brut/androlib/err/CantFindFrameworkResException.java
+END
+InFileNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/recp/iooly/!svn/ver/2/ApkDetails/trunk/src/brut/androlib/err/InFileNotFoundException.java
+END
+UndefinedResObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/recp/iooly/!svn/ver/2/ApkDetails/trunk/src/brut/androlib/err/UndefinedResObject.java
+END
