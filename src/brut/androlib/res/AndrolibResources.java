@@ -156,7 +156,7 @@ final public class AndrolibResources {
             LOGGER.info("Decoding AndroidManifest.xml ...");
 
             fileDecoder.decode(inApk, "AndroidManifest.xml", out,
-                    "AndroidManifest_de.xml", "xml");
+                    "AndroidManifest.xml", "xml");
             LOGGER.info("Done.");
         } catch (DirectoryException ex) {
             throw new AndrolibException(ex);
@@ -180,7 +180,7 @@ final public class AndrolibResources {
             LOGGER.info(apkFile.getAbsolutePath() + " >>> "
                     + outDir.getAbsolutePath());
             fileDecoder.decode(inApk, "AndroidManifest.xml", out,
-                    "AndroidManifest_de.xml", "xml");
+                    "AndroidManifest.xml", "xml");
             if (inApk.containsDir("res")) {
                 in = inApk.getDir("res");
             }
