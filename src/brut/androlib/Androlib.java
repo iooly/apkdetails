@@ -182,6 +182,10 @@ public class Androlib {
             String outFileName = (String) meta.get("apkFileName");
             outFile = new File(appDir, "dist" + File.separator
                     + (outFileName == null ? "out.apk" : outFileName));
+
+            // outFile = new File(appDir, "dist" + File.separator
+            // + (outFileName == null ? "bin/" + appDir.getName() + ".apk" :
+            // outFileName));
         }
 
         new File(appDir, APK_DIRNAME).mkdirs();
