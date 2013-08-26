@@ -448,15 +448,18 @@ public class Androlib {
 
     private final static String SMALI_DIRNAME = "smali";
 
-  //  private final static String APK_DIRNAME = "build/apk";
+    // private final static String APK_DIRNAME = "build/apk";
     private final static String APK_DIRNAME = "bin";
 
     private final static String[] APK_RESOURCES_FILENAMES = new String[] {
-            "resources.arsc", "AndroidManifest.xml", "res" };
+            "resources.arsc", "AndroidManifest.xml", "res"
+    };
 
     private final static String[] APK_RESOURCES_WITHOUT_RES_FILENAMES = new String[] {
-            "resources.arsc", "AndroidManifest.xml" };
+            "resources.arsc", "AndroidManifest.xml"
+    };
 
     private final static String[] APP_RESOURCES_FILENAMES = new String[] {
-            "AndroidManifest.xml", "res" };
+            "AndroidManifest.xml", "res"
+    };
 }
